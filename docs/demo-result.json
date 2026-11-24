@@ -64,7 +64,7 @@
   "literal_escape": [
     {
       "name": "H-1",
-      "ratio": 1,
+      "ratio": 1.0,
       "iteration": 3,
       "escaped": true
     },
